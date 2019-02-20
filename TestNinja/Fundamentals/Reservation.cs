@@ -12,7 +12,9 @@
     }
 
     public class User
-    {
+    {   /// <summary>
+    /// 
+    /// </summary>
         public bool IsAdmin { get; set; }
     }
 }
